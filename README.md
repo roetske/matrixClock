@@ -1,10 +1,10 @@
 # matrixClock
  clock with 2 matrix led one for time 2nd scrolling date and weekdate
 # hardware
-esp32 38 pins
-2 matrix 8x8 leds
-levelconverter 3v3 to 5v for spi(play safe esp32 3v3 matrix 5v)
-powerlink 220Vac to 5v 3watt
+esp32 38 pins-
+2 matrix 8x8 leds-
+levelconverter 3v3 to 5v for spi(play safe esp32 3v3 matrix 5v)-
+powerlink 220Vac to 5v 3watt-
 old spotlight
 # description
 Clock update via pool.org.
