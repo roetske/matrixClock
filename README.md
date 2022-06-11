@@ -11,5 +11,5 @@ No wifi choose and do setup wifi credentials via accesspoint
 matrix 4 modules 8x8 is 2 modules in series spi
 1) first matrix time 24H
 2) 2nd matrix scrolling date and weekdate
-#remark
+# remark
 scrolling text was a challenge
