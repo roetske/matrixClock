@@ -14,3 +14,4 @@ matrix 4 modules 8x8 is 2 modules in series spi
 2) 2nd matrix scrolling date and weekdate
 # remark
 scrolling text was a challenge
+What makes this clock great is the visibilty. Matrix clock you can see from far.
