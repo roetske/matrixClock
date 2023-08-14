@@ -1,7 +1,6 @@
 /*time and date on matrix
 board esp32 dev
-     2 levelconverter
-     mcp23017
+     1 levelconverter
      2 matrixled 4 mod
 info  
 thanks and credits to all who share their code on github
@@ -65,11 +64,11 @@ uint8_t  display = 0;  // current display mode
 const char* ssid =   "your ssid";
 const char* password =   "your password";
 
-const char* NTP_SERVER =  "2.be.pool.ntp.org";         
+const char* NTP_SERVER =  "2.be.pool.ntp.org";         //set your timeserver
 const char* NTP_SERVER2 = "0.europe.pool.ntp.org";
 const char* NTP_SERVER3 = "1.europe.pool.ntp.org";
 
-const char* TZ_INFO    = 	"CET-1CEST-2,M3.5.0/02:00:00,M10.5.0/03:00:00"; 
+const char* TZ_INFO    = "CET-1CEST-2,M3.5.0/02:00:00,M10.5.0/03:00:00"; //set your timezone
 
 tm timeinfo;
 int heartbeatinterval = 1000;
