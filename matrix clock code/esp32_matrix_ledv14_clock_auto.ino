@@ -33,9 +33,6 @@ autoconnect versie wel shit stop start eruit wifi
 
 //blinkled
 #define blinkled 2 //for heartbeat
-//i2c ports for you lcd gpio21 gpio22
-#define sda 21
-#define scl 22
 ESP32Time rtc;
 //autoconnect
 AutoConnect       portal;
