@@ -15,7 +15,7 @@ matrix 4 modules 8x8 is 2 modules in series spi
 # remark
 Scrolling text was a challenge
 What makes this clock great is the visibilty. Matrix clock you can see from far.<br />
-I had issues with spi could not figure it out.(reaction time and scrolling speed did not very reactive).<br />
+I had issues with spi could not figure it out.(reaction time and scrolling speed were not very reactive).<br />
 The level converter i used is not capable of high speeds. I found out doing some test with wled which uses also spi.<br />
 There the same issue setup worked but responsiveness control nok. <br />
 Posted this at forum wled and got the answer levelconverter good for i2c but not fast enough for spi.<br />
