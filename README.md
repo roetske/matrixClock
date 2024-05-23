@@ -13,8 +13,9 @@ matrix 4 modules 8x8 is 2 modules in series spi
 1) first matrix time 24H
 2) 2nd matrix scrolling date and weekdate
 # remark
-scrolling text was a challenge
-What makes this clock great is the visibilty. Matrix clock you can see from far.
-I had issues with spi could not figure it out. The level converter i used is not capable of high speeds.<br />
+Scrolling text was a challenge
+What makes this clock great is the visibilty. Matrix clock you can see from far.<br />
+I had issues with spi could not figure it out.(reaction time and scrolling speed did not very reactive.<br />
+The level converter i used is not capable of high speeds.<br />
 A better alternative is TXS0108E chip for highspeed bidirectional com.<br />
 Only downside standard 8 ports which you only use 4 at max.<br />
