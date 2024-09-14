@@ -28,6 +28,6 @@ I forget but should enter it in the code in comment versions used of the librari
 arduino ide 2.3.2<br />
 board esp32 dev<br />
 autoconnect 1.4.2<br />
-board library esp32 systems 2.07 (important otherwise get shit compiling later versions)<br />
+board library esp32 systems 2.0.17 <br />
 later lib versions board esp32 have important commands that changed are conflicting with autoconnect<br />
 Did compile test with these version and compiled as it should :)<br />
