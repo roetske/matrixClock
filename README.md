@@ -23,7 +23,7 @@ A better alternative is TXS0108E chip for highspeed bidirectional com.<br />
 Only downside standard 8 ports which you only use 4 at max.<br />
 # Updates and libraries
 Updating is dangerous for projects , nothing more annoying than running code no longer compiling.<br />
-One year later you try your project and you get compile trouble ruins your day<br />
+One year later you try your project and you get compile trouble. It makes ruins your day:(<br />
 I forget but should enter it in the code in comment versions used of the libraries.<br />
 arduino ide 2.3.2<br />
 board esp32 dev<br />
