@@ -21,3 +21,13 @@ There the same issue setup worked but responsiveness control nok. <br />
 Posted this at forum wled and got the answer levelconverter good for i2c but not fast enough for spi.<br />
 A better alternative is TXS0108E chip for highspeed bidirectional com.<br />
 Only downside standard 8 ports which you only use 4 at max.<br />
+# Updates and libraries
+Updating is dangerous for projects , nothing more annoying than running code no longer compiling.<br />
+One year later you try your project and you get compile trouble ruins your day<br />
+I forget but should enter it in the code in comment versions used of the libraries.<br />
+arduino ide 2.3.2<br />
+board esp32 dev<br />
+autoconnect 1.4.2<br />
+board library esp32 systems 2.07 (important otherwise get shit compiling later versions)<br />
+later lib versions board esp32 have important commands that changed are conflicting with autoconnect<br />
+Did compile test with these version and compiled as it should :)<br />
